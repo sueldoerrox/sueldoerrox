@@ -58,9 +58,8 @@ Também compartilho meus aprendizados, projetos e conteúdos sobre tecnologia no
 ## 🏆 Conquistas
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sueldoerrox&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sueldoerrox&theme=tokyonight&no-frame=true&column=7" />
 </div>
-
 ---
 
 ## 🐍 Minhas contribuições
